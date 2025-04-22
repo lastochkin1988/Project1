@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\xlab\\xlab_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|d:\\xlab\\xlab_test\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|D:\\xlab\\xlab_test\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|d:\\xlab\\xlab_test\\assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|D:\\xlab\\xlab_test\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|d:\\xlab\\xlab_test\\assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|D:\\xlab\\xlab_test\\assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC770F8A-161D-5A00-2749-AEBE7B439BDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,32 +39,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LevelController.cs",
-              "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\Scripts\\LevelController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
-              "ToolTip": "D:\\xlab\\xlab_test\\Assets\\Scripts\\LevelController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\xlab\\xlab_test\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:57:43.981Z",
+              "WhenOpened": "2025-04-22T08:04:49.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SpawnerStone.cs",
-              "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\Scripts\\SpawnerStone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerStone.cs",
-              "ToolTip": "D:\\xlab\\xlab_test\\Assets\\Scripts\\SpawnerStone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SpawnerStone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Stick.cs",
+              "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\Scripts\\Stick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stick.cs",
+              "ToolTip": "D:\\xlab\\xlab_test\\Assets\\Scripts\\Stick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:56:20.48Z",
+              "WhenOpened": "2025-04-22T07:56:03.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\Scripts\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
+              "ToolTip": "D:\\xlab\\xlab_test\\Assets\\Scripts\\LevelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:57:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnerStone.cs",
+              "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\Scripts\\SpawnerStone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerStone.cs",
+              "ToolTip": "D:\\xlab\\xlab_test\\Assets\\Scripts\\SpawnerStone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnerStone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:56:20.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Refresh.cs",
               "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\3.4_Scripts\\Refresh.cs",
               "RelativeDocumentMoniker": "Assets\\3.4_Scripts\\Refresh.cs",
@@ -67,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CloudController.cs",
               "DocumentMoniker": "D:\\xlab\\xlab_test\\Assets\\3.4_Scripts\\CloudController.cs",
               "RelativeDocumentMoniker": "Assets\\3.4_Scripts\\CloudController.cs",
