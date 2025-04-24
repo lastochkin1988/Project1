@@ -7,15 +7,15 @@ namespace Golf
     {
         public GameObject[] prefabs;
 
-        public void Spawn()
+        public GameObject Spawn()
         {
             var prifab = GetRandomPrefab();
 
             if (prifab == null )
             {
-                return;
+                return null;
             }
-            Instantiate(prifab, transform.position, Quaternion.identity);
+            return Instantiate(prifab, transform.position, Quaternion.identity);
         }
         private GameObject GetRandomPrefab()
         {
